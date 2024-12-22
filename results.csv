@@ -1,0 +1,17 @@
+method,endpoint,status,result
+GET,https://jsonplaceholder.typicode.com/todos,200,PASS
+GET,https://jsonplaceholder.typicode.com/todos/1,200,PASS
+PUT,https://jsonplaceholder.typicode.com/todos/1,200,PASS
+PUT,https://jsonplaceholder.typicode.com/todos/1,200,PASS
+PATCH,https://jsonplaceholder.typicode.com/todos/1,200,PASS
+POST,https://jsonplaceholder.typicode.com/todos,201,PASS
+POST,https://jsonplaceholder.typicode.com/todos,201,PASS
+DELETE,https://jsonplaceholder.typicode.com/todos,200,PASS
+GET,https://jsonplaceholder.typicode.com/todos,200,PASS
+GET,https://jsonplaceholder.typicode.com/todos/1,200,PASS
+PUT,https://jsonplaceholder.typicode.com/todos/1,200,PASS
+PUT,https://jsonplaceholder.typicode.com/todos/1,200,PASS
+PATCH,https://jsonplaceholder.typicode.com/todos/1,200,PASS
+POST,https://jsonplaceholder.typicode.com/todos,201,PASS
+POST,https://jsonplaceholder.typicode.com/todos,201,PASS
+DELETE,https://jsonplaceholder.typicode.com/todos,200,PASS
